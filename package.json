@@ -1,0 +1,12 @@
+{
+  "name": "NoNameProject",
+  "version": "0.0.1",
+  "description": "Web Project",
+  "main": "index.js",
+  "repository": "git@github.com:Weisteck/NoNameProject.git",
+  "author": "weisteck <hugo.celdran@gmail.com>",
+  "license": "MIT",
+
+  "private": true,
+  "workspaces": ["api", "client"]
+}
