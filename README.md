@@ -6,10 +6,9 @@ Because we don't care
 
    - Nginx
    - Nodejs => Nestjs
-   - Reactjs
    - linter pour typerscript
+	 - VueJS
    - MongoDB
    - GraphQL
 
 A voir pour docker
-
